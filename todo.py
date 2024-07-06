@@ -1,5 +1,8 @@
 import flet as ft
 
+class Task:
+    pass
+
 class ToDoApp(ft.Column):
     def __init__(self):
         super().__init__()
